@@ -2,7 +2,7 @@
 
 This repo contains the dataset used in our paper: Interactive Construction of User-Centric Dictionary for Text Analytics.
 
-We provide dictionaries created for the [Amazaon review corpus](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (unprocessed.tar.gz).
+We provide dictionaries created for [Amazaon review corpus](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) (unprocessed.tar.gz).
 
 
 ## Citation
